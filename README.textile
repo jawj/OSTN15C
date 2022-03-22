@@ -1,4 +1,6 @@
-*This is a C implementation of Ordnance Survey's definitive transformation model "OSTN02":http://www.ordnancesurvey.co.uk/oswebsite/gps/osnetfreeservices/about/surveying_osnet.html#6 and Geoid model "OSGM02":http://www.ordnancesurvey.co.uk/oswebsite/gps/osnetfreeservices/about/surveying_osnet.html#7, with tests.*
+*This will be a C implementation of Ordnance Survey's definitive transformation model OSTN15 and Geoid model OSGM15, with tests.*
+
+*AS OF 22 MARCH 2022 IT'S JUST A SIMPLE CLONE OF MY OSTN02C REPO*
 
 It's intended to power a future update of my "GridPoint GB":http://mackerron.com/gridpointgb/ iOS app. It includes a simple command-line tool. 
 
